@@ -1,6 +1,6 @@
 
 
-
+<meta name="maValidation" content="63c1c1356586aa21b6eeff0918f550bf" />
 <iframe data-aa='987177' src='//ad.a-ads.com/987177?size=990x90' scrolling='no' style='width:990px; height:90px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
 
 
